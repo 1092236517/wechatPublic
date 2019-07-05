@@ -8,6 +8,12 @@ yarn-error.log*
 /test/e2e/reports/
 selenium-debug.log
 
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
 # Editor directories and files
 .idea
 .vscode
